@@ -1,4 +1,0 @@
-
-3, 1003,manager 3
-2, 1002,tester 2
-1, 1001,programmer 1
